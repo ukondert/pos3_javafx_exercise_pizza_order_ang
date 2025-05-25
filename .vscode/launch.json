@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "PizzaOrderApp",
+            "request": "launch",
+            "mainClass": "main.java.at.htlle.pizzaapp.PizzaOrderApp"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pizza Order App",
+            "request": "launch",
+            "mainClass": "at.htlle.pizzaapp.PizzaOrderApp",
+            "vmArgs": "--module-path \"C:/SDKs/javafx/javafx-sdk-21.0.6/lib\" --add-modules javafx.controls,javafx.fxml",
+            "projectName": "pos3_javafx_exercise_pizza_order"
+        }
+    ]
+}
